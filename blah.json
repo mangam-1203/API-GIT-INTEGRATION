@@ -7,7 +7,7 @@
       "name": "MIT"
     }
   },
-  "servers": [
+  "servers": [ truck
     {
       "url": "http://petstore.swagger.io/v1"
     }
